@@ -91,7 +91,7 @@
     <h2>处理样式</h2>
     处理样式使用的是css-loader和style-loader<br>
     <div class="dimk">npm i css-loader style-loader -save-dev</div><br>
-    在webpack.config.js中fff<br>
+    在webpack.config.js中ff<br>
     <div class="dimk">
       module: {<br>
         &nbsp;&nbsp;rules: [<br>
