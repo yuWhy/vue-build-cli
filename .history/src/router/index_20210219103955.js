@@ -13,10 +13,6 @@ const router = new VueRouter({
       path: "/login",
       name: 'login',
       component: () => import('../components/login.vue')
-    }, {
-      path: "/vueBuild",
-      name: 'vueBuild',
-      component: () => import('../components/vue-build.vue')
     }
   ]
 })
