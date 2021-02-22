@@ -2,8 +2,9 @@
   <div id="app">
     <h1>{{msg}}</h1>
     <router-link to="vueBuild">徒手搭建一个vue的说明文3档</router-link>
+    <router-link to="hello">1</router-link>
+    <router-link to="login">2</router-link>
     <router-link to="hightOrderComponents">高阶组件</router-link>
-    <router-link to="mixinDome">Mixin</router-link>
     <router-view></router-view>
   </div>
 </template>

@@ -3,7 +3,7 @@
     <h1>{{msg}}</h1>
     <router-link to="vueBuild">徒手搭建一个vue的说明文3档</router-link>
     <router-link to="hightOrderComponents">高阶组件</router-link>
-    <router-link to="mixinDome">Mixin</router-link>
+    <router-link to="hightOrderComponents">Mixin</router-link>
     <router-view></router-view>
   </div>
 </template>

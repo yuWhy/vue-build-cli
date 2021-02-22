@@ -21,10 +21,6 @@ const router = new VueRouter({
       path: "/hightOrderComponents",
       name: 'hightOrderComponents',
       component: () => import('../pages/HightOrderComponents/index.vue')
-    }, {
-      path: "/mixinDome",
-      name: 'mixinDome',
-      component: () => import('../pages/MixinDome/index.vue')
     }
   ]
 })
